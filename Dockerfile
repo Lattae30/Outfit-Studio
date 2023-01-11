@@ -1,2 +1,2 @@
 FROM nginx:alpine
-COPY . /usr/share/nginx/html/devopsProject
+COPY . /usr/share/nginx/html/ProjectDevOps
